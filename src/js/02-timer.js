@@ -26,10 +26,6 @@ document.addEventListener('DOMContentLoaded', () => {
     timerContainer.style.display = 'flex';
     timerContainer.style.gap = '30px';
     timerContainer.style.marginLeft = '50px';
-
-    // style pola wyboru daty i buttona
-    datePickerInput.style.fontSize = '200%';
-    startButton.style.fontSize = '200%';
   }
 
   adjustElements();
